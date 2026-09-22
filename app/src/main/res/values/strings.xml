@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">RoomSQLiteApplication</string>
+    <string name="book_management">Gerenciamento de Livros</string>
+    <string name="title">Título</string>
+    <string name="author">Autor</string>
+    <string name="year">Ano</string>
+    <string name="publisher">Editora</string>
+    <string name="save">Salvar</string>
+    <string name="update">Atualizar</string>
+    <string name="books">Livros</string>
+    <string name="delete">Excluir</string>
+    <string name="msg_fill_all_fields">Preencha todos os campos.</string>
+    <string name="msg_book_inserted">Livro inserido.</string>
+    <string name="msg_select_book">Selecione um livro.</string>
+    <string name="msg_book_updated">Livro atualizado.</string>
+    <string name="msg_book_deleted">Livro excluído.</string>
+    <string name="msg_book_selected">Livro selecionado.</string>
+    <string name="label_author_format">Autor: %s</string>
+    <string name="label_year_format">Ano: %s</string>
+    <string name="label_publisher_format">Editora: %s</string>
+</resources>
